@@ -14,8 +14,13 @@ Not only write your blogs, but also can write the comment and like the post!
 ![image](https://user-images.githubusercontent.com/39822204/215566939-5bc97c43-c5e9-4e4b-85fd-0820826906db.png)
 
 
-Several Options are given to perform different tasks: (Write Blog, See the blog_list (myblogs) and Logout option
+Several Options are given to perform different tasks: (Write Blog, See the blog_list (myblogs) and Logout option and your profile information too!
 ![image](https://user-images.githubusercontent.com/39822204/215564883-a66159f2-4c5a-49f7-a2f6-1440240cad5c.png)
+
+Your Pfoile: when you click this option then you will be redirected your profile info where you can see your name, Email and Profile Pic! if you want , you can change your profile pic and info!
+
+![image](https://user-images.githubusercontent.com/39822204/215567602-1fa57361-eeff-4c0e-a9e5-2589dc846535.png)
+
 
 
 This is the blog creating form. Using this form new blog can be published!
