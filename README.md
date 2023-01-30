@@ -2,7 +2,10 @@
 This is my personal blog site
 
 Homepage of the blogsite where you can signup as a new user and create an account to write your own blog.
+
 ![image](https://user-images.githubusercontent.com/39822204/215565575-07ef9cb6-5744-459b-ac31-c1e6581d4761.png)
+
+
 
 
 Several Options are given to perform different tasks: (Write Blog, See the blog_list (myblogs) and Logout option
