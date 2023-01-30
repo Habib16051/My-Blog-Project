@@ -1,7 +1,7 @@
 # myblog_project
 This is my personal blog site
 
-Homepage of the blogsite where you gonna see all the blogs list and also see the signin, signup and home logo.
+Homepage of the blogsite where you  are gonna see all the blogs list and also see the signin, signup and home logo.
 
 ![image](https://user-images.githubusercontent.com/39822204/215565575-07ef9cb6-5744-459b-ac31-c1e6581d4761.png)
 
