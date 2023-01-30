@@ -10,6 +10,10 @@ Signup Page: where you can signup and create your own account to write your blog
 ![image](https://user-images.githubusercontent.com/39822204/215566150-73a2f636-6bde-439a-9e76-6308ee3be9d4.png)
 
 
+Not only write your blogs, but also can write the comment and like the post!
+![image](https://user-images.githubusercontent.com/39822204/215566939-5bc97c43-c5e9-4e4b-85fd-0820826906db.png)
+
+
 Several Options are given to perform different tasks: (Write Blog, See the blog_list (myblogs) and Logout option
 ![image](https://user-images.githubusercontent.com/39822204/215564883-a66159f2-4c5a-49f7-a2f6-1440240cad5c.png)
 
