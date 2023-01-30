@@ -1,6 +1,12 @@
 # myblog_project
 This is my personal blog site
 
+
+
+Several Options are given to perform different tasks: (Write Blog, See the blog_list (myblogs) and Logout option
+![image](https://user-images.githubusercontent.com/39822204/215564883-a66159f2-4c5a-49f7-a2f6-1440240cad5c.png)
+
+
 This is the blog creating form. Using this form new blog can be published!
 
 ![image](https://user-images.githubusercontent.com/39822204/215561750-7e79d19e-1864-4974-b504-9ca7fc57d66f.png)
