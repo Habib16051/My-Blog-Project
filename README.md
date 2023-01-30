@@ -1,11 +1,13 @@
 # myblog_project
 This is my personal blog site
 
-Homepage of the blogsite where you can signup as a new user and create an account to write your own blog.
+Homepage of the blogsite where you gonna see all the blogs list and also see the signin, signup and home logo.
 
 ![image](https://user-images.githubusercontent.com/39822204/215565575-07ef9cb6-5744-459b-ac31-c1e6581d4761.png)
 
+Signup Page: where you can signup and create your own account to write your blogs
 
+![image](https://user-images.githubusercontent.com/39822204/215566150-73a2f636-6bde-439a-9e76-6308ee3be9d4.png)
 
 
 Several Options are given to perform different tasks: (Write Blog, See the blog_list (myblogs) and Logout option
